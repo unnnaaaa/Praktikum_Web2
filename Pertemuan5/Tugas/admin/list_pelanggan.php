@@ -3,6 +3,8 @@ include_once 'pages/header.php';
 include_once 'pages/navbar.php';
 include_once 'pages/sidebar.php';
 
+
+
 ?>
 <div class="content-wrapper bg-info"">
     <!-- Content Header (Page header) -->

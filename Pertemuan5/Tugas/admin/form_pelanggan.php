@@ -19,7 +19,7 @@ require_once 'dbkoneksi.php';
             <h1 class="m-0">Silakan Isi Form Pendaftaran!</h1>
           </div><!-- /.col -->
           </div><!-- /.col -->
-  <div class="col-sm-6">         
+<div class="col-sm-6">         
 <form method="POST" action="proses_pelanggan.php">
   <div class="form-group row mt-3">
     <label for="kode" class="col-4 col-form-label">Kode</label> 
@@ -168,7 +168,6 @@ require_once 'dbkoneksi.php';
 
 
 </main>
-
   
 
 <?php
